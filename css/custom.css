@@ -7,13 +7,13 @@ font-family:".HiraKakuInterface-W1",'Lucida Grande',
 }
 /* Override base .btn styles */
 /* Apply text and background changes to three key states: default, hover, and active (click). */
-#accordion-group0{background-color:  #ea3b13;}/* 燃やす */
-#accordion-group1{background-color:  #733b96;}/* 燃やさない */
-#accordion-group2{background-color:  #77ae1f;}/* 資源 */
-#accordion-group3{background-color:  #2dc7aa;}/* びん */
-#accordion-group4{background-color:  #000000;}/* 燃やさない粗大 */
-#accordion-group5{background-color:  #FF8C00;}/* 燃やさない粗大 */
-#accordion-group6{background-color:  #FABED7;}/* 燃やさない粗大 */
+#accordion-group0{background-color:  #87cefa;}/* 不燃ごみ */
+#accordion-group1{background-color:  #ffb6c1;}/* 可燃ごみ */
+#accordion-group2{background-color:  #c71585;}/* 紙・布類 */
+#accordion-group3{background-color:  #228b22;}/* プラ容器 */
+#accordion-group4{background-color:  #ffa500;}/* 不燃ごみ・粗大ごみ */
+#accordion-group5{background-color:  #ffff00;}/* あきビン・ペットボトル */
+#accordion-group6{background-color:  #90ee90;}/* あき缶・プラ容器 */
 
 .accordion-group{margin-bottom:0;border:0;border-radius:0}
 
