@@ -275,8 +275,8 @@ $(function() {
         area.centerName = row[1];
 
         areaModels.push(area);
-        //２列目以降の処理
-        for (var r = 2; r < 2 + 5; r++) {
+        //２列目以降の処理　Mod Shinohara 項目を増やすためループ回数変更
+        for (var r = 2; r < 2 + 8; r++) {
           var trash = new TrashModel(area_days_label[r], row[r]);
           area.trash.push(trash);
         }
