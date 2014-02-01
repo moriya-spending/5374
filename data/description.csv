@@ -1,9 +1,9 @@
 label,sublabel,description,styles
-不燃ごみ,,,img/moyasanai02.svg
-可燃ごみ,,,img/shigen02.svg
-紙・布類,,,img/bin02.svg
-プラ容器,,,img/test.svg
-不燃ごみ・粗大ごみ,,,img/test.svg
-あきビン・ペットボトル,,,img/test.svg
-あき缶・プラ容器,,,img/test.svg
+不燃ごみ,,,img/funen.svg
+可燃ごみ,,,img/kanen.svg
+紙・布類,,,img/kaminuno.svg
+プラ容器,,,img/pla.svg
+不燃ごみ・粗大ごみ,,,img/funensodai.svg
+あきビン・ペットボトル,,,img/binpet.svg
+あき缶・プラ容器,,,img/binpla.svg
 
