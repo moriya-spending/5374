@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-16"?>
+
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN"
+	"http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
+
+<svg width="250" height="25"
+ xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<text x="10px" y="20px"
+		style="fill:rgb(0,0,0);font-family:MS-PGothic;font-size:18pt;font-weight:bold;text-anchor:start">あきビン・ペットボトル</text>
+</svg>
