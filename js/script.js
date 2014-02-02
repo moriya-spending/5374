@@ -366,7 +366,7 @@ $(function() {
     //トラッシュの近い順にソートします。
     areaModel.sortTrash();
 
-    var accordion_height = windowHeight / 4;
+    var accordion_height = windowHeight / 7;
 
     var accordionHTML = "";
     //アコーディオンの分類から対応の計算を行います。
